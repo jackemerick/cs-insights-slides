@@ -1,0 +1,71 @@
+{
+ "set": "2026-10-16-teste",
+ "brand": "Customer Success Insights",
+ "slides": [
+  {
+   "dark": true,
+   "kicker": "CUSTOMER SUCCESS E IA",
+   "title": "Prever churn não reduz churn.",
+   "body": "O que ainda falta entre o alerta e a ação.",
+   "accent": "turq",
+   "big": true
+  },
+  {
+   "dark": false,
+   "kicker": "O DADO",
+   "title": "Até 25% menos churn com IA",
+   "body": "Plataformas de CS ouvidas pela G2 relatam queda de até 25% em casos de alto desempenho (Chargebee) e cerca de 15% em média (Velaris).\n\nAtenção: números autorrelatados por fornecedores. Use como direção, não como promessa.",
+   "accent": "ocean",
+   "foot": "Fonte: G2, fevereiro de 2026"
+  },
+  {
+   "dark": true,
+   "kicker": "O GARGALO",
+   "title": "O problema não é prever.",
+   "body": "É a distância entre identificar o risco e agir de forma consistente, em escala. As plataformas chamam isso de execution gap.",
+   "accent": "turq"
+  },
+  {
+   "dark": false,
+   "kicker": "PRÁTICA 1",
+   "title": "Combine sinais",
+   "body": "Queda de uso, baixa adoção de funcionalidades, falhas de onboarding, sentimento e comportamento de cobrança funcionam melhor juntos do que isolados.",
+   "accent": "indigo"
+  },
+  {
+   "dark": true,
+   "kicker": "PRÁTICA 2",
+   "title": "Alerta sem dono vira ruído.",
+   "body": "Todo alerta do health score nasce com a próxima ação recomendada e um responsável definido.",
+   "accent": "turq"
+  },
+  {
+   "dark": false,
+   "kicker": "PRÁTICA 3",
+   "title": "Meça o tempo entre alerta e ação",
+   "body": "Churn é resultado. O tempo de resposta ao alerta é o seu indicador de execução, e dá para melhorar ainda neste mês.",
+   "accent": "ocean"
+  },
+  {
+   "dark": true,
+   "kicker": "PRÁTICA 4",
+   "title": "Humano no processo",
+   "body": "Automação ajuda a priorizar e sugerir. A decisão sobre conta em risco continua pedindo critério e conversa.",
+   "accent": "turq"
+  },
+  {
+   "dark": false,
+   "kicker": "TESTE DE SEGUNDA-FEIRA",
+   "title": "Pegue os 10 últimos alertas de risco",
+   "body": "Quantos viraram ação em até 48 horas?\n\n(Sugestão de meta: ajuste ao ciclo do seu produto.)",
+   "accent": "indigo"
+  },
+  {
+   "dark": true,
+   "kicker": "PARA REFLETIR",
+   "title": "Seu health score aponta o problema ou resolve o problema?",
+   "body": "Conte nos comentários: qual é o tempo de resposta do seu time a um alerta de risco?\n\nSiga para mais análises de customer success.",
+   "accent": "turq"
+  }
+ ]
+}
