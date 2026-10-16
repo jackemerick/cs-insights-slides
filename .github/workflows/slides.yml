@@ -1,0 +1,29 @@
+name: Gerar slides
+on:
+  push:
+    paths: ["specs/**", "generate.py", ".github/workflows/slides.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pillow
+      - name: Baixar fonte Inter
+        run: |
+          curl -sL -o inter.zip https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip
+          mkdir -p fonts tmpf && unzip -q inter.zip -d tmpf
+          for w in Regular Medium SemiBold ExtraBold; do cp "$(find tmpf -name "Inter-$w.otf" | head -1)" fonts/; done
+          ls fonts
+      - run: python generate.py
+      - name: Publicar slides
+        run: |
+          rm -rf tmpf inter.zip fonts
+          git config user.name "slides-bot"
+          git config user.email "slides-bot@users.noreply.github.com"
+          git add out
+          git diff --cached --quiet || (git commit -m "Slides gerados" && git push)
