@@ -1,0 +1,32 @@
+name: Buscar fotos do Drive
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'fetch-photos.trigger'
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Baixar fotos pelo catalogo
+        run: |
+          pip install gdown
+          mkdir -p photos
+          python3 - <<'PY'
+          import json, subprocess
+          cat = json.load(open('photos_catalog.json'))
+          for p in cat['photos']:
+              out = 'photos/%02d.jpg' % p['n']
+              subprocess.run(['gdown', '--id', p['drive_id'], '-O', out], check=True)
+          PY
+          ls -la photos | head -50
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add photos
+          git commit -m "fotos do catalogo (00 a 32)" || echo "nada a commitar"
+          git push
