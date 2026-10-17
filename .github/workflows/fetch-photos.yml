@@ -13,16 +13,31 @@ jobs:
       - uses: actions/checkout@v4
       - name: Baixar fotos pelo catalogo
         run: |
-          pip install gdown
           mkdir -p photos
           python3 - <<'PY'
-          import json, subprocess
+          import json, subprocess, time, os
           cat = json.load(open('photos_catalog.json'))
+          missing = []
           for p in cat['photos']:
               out = 'photos/%02d.jpg' % p['n']
-              subprocess.run(['gdown', p['drive_id'], '-O', out], check=True)
+              url = 'https://drive.usercontent.google.com/download?id=%s&export=download&confirm=t' % p['drive_id']
+              ok = False
+              for attempt in range(4):
+                  subprocess.run(['curl', '-sSL', '-o', out, url])
+                  with open(out, 'rb') as f:
+                      head = f.read(3)
+                  if head == b'\xff\xd8\xff' and os.path.getsize(out) > 20000:
+                      ok = True
+                      break
+                  time.sleep(5 * (attempt + 1))
+              if not ok:
+                  missing.append(p['n'])
+                  if os.path.exists(out):
+                      os.remove(out)
+              time.sleep(2)
+          print('FALTANDO:', missing)
           PY
-          ls -la photos | head -50
+          ls photos | wc -l
       - name: Commit
         run: |
           git config user.name "github-actions"
