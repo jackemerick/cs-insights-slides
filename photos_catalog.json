@@ -1,0 +1,270 @@
+{
+ "folder_id": "1iSLqEPhMRlJOLqY3QwGpSj2FCdA7apFd",
+ "note": "face_y = altura aproximada do rosto como fração da altura da imagem. Fotos de Jack geradas por IA, 33 itens.",
+ "photos": [
+  {
+   "n": 0,
+   "drive_id": "1-8eTPHTWIkmLbXsewRVboiHmXcUd6vf2",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.14,
+   "desc": "choque, mãos na cabeça, janela com praia, notebook (surpresa, notícia inesperada, problema)"
+  },
+  {
+   "n": 1,
+   "drive_id": "1-DcyRdf1XJxoP9Z1fPQ5MMdDtk_0bGBS",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "pensativo, mão na testa, café com plantas, notebook (dúvida, análise)"
+  },
+  {
+   "n": 2,
+   "drive_id": "10JQkplgqSBCQegy-YfwVimdm9M53ntZR",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.23,
+   "desc": "choque, mão na garganta, reunião com equipe ao fundo (susto, notícia forte)"
+  },
+  {
+   "n": 3,
+   "drive_id": "10SgDwk0Vr5ByJTt02i4kU8lPQbJBCicq",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.15,
+   "desc": "preocupado, mão na cabeça, notebook, janela com praia (pressão, desafio)"
+  },
+  {
+   "n": 4,
+   "drive_id": "10d_xOD-wENEn29JycYHleaAv88WXODa7",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.21,
+   "desc": "caminhando na orla olhando o celular sorrindo (compra pelo celular, rotina, varejo)"
+  },
+  {
+   "n": 5,
+   "drive_id": "11MfLvDv9NWD-8NHBECny3EN8OvRhjW6I",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.17,
+   "desc": "sorrindo olhando o celular em café na calçada, mochila (compra online, app, delivery)"
+  },
+  {
+   "n": 6,
+   "drive_id": "12VGRPZe75MJAhzaOKpEd26sLe4fbe0Hf",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.12,
+   "desc": "em pé junto à janela com xícara, prédios e mar (calma, manhã, visão geral)"
+  },
+  {
+   "n": 7,
+   "drive_id": "14Lp8OFr_La0Wu4dmxRFjLE3AqcNXpQOi",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.13,
+   "desc": "caminhando na orla sorrindo de blazer (otimismo, avanço, crescimento)"
+  },
+  {
+   "n": 8,
+   "drive_id": "15cuQlqAFqLv8rNQjtFmz5LNKhJl-ZTP5",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.11,
+   "desc": "em pé na praia sorrindo com notebook sob o braço (confiança, retrato)"
+  },
+  {
+   "n": 9,
+   "drive_id": "16IF_UlveNUoSYv-Al6UTTBJuj0Vykah1",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.13,
+   "desc": "sentado em café na praia digitando no notebook sorrindo (trabalho remoto, negócios)"
+  },
+  {
+   "n": 10,
+   "drive_id": "16WyuHxCvrqTT0g6RVqMPtAXmXEMpvihP",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.13,
+   "desc": "escritório, jaqueta de couro, inclinado para frente, equipe ao fundo (urgência, ação, liderança)"
+  },
+  {
+   "n": 11,
+   "drive_id": "17U8ODQ1UyGVl1hS5jEuxZs2F06GCtDlk",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.17,
+   "desc": "jaqueta de couro, braços cruzados, morro ao fundo (confiança, firmeza)"
+  },
+  {
+   "n": 12,
+   "drive_id": "1Asb-VDRmc-BrpjVkAZ4NDNBuWRvFmn7k",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.16,
+   "desc": "ao ar livre urbano, mostrando o notebook e gesticulando (explicar, apresentar, ensinar)"
+  },
+  {
+   "n": 13,
+   "drive_id": "1CP6UlJdkGZhlws5geDBo7avmN_vbHGNK",
+   "w": 896,
+   "h": 1195,
+   "face_y": 0.23,
+   "desc": "sorrindo olhando o notebook em escritório claro (trabalho, resultado)"
+  },
+  {
+   "n": 14,
+   "drive_id": "1Dd2wTa-qaN8wuG2HZ1nkEnO5c2qOExuu",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.15,
+   "desc": "encostado na parede ao lado de janela com cidade (casual, confiante)"
+  },
+  {
+   "n": 15,
+   "drive_id": "1EWxF_7-ruax1MnsE3UuIIyxoM5jE5lbr",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.15,
+   "desc": "rua de cidade, jaqueta de couro, segurando celular (comércio de rua, consumo)"
+  },
+  {
+   "n": 16,
+   "drive_id": "1GW5b1ejhBYYx-TdNA1EgETjPir3wPyo7",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.13,
+   "desc": "sala de vidro, apontando com o polegar, equipe ao fundo (reunião, decisão, liderança)"
+  },
+  {
+   "n": 17,
+   "drive_id": "1M7T_yxw8cQOzNC_8YC0OTylJAAphGpsN",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.23,
+   "desc": "mão na boca, equipe conversando ao fundo (ops, erro, constrangimento)"
+  },
+  {
+   "n": 18,
+   "drive_id": "1NkOVuTcvWqNCcNIMyM8vxlhDXnAfZdUl",
+   "w": 896,
+   "h": 1195,
+   "face_y": 0.2,
+   "desc": "escritório, tapando o nariz e mão estendida (algo cheira mal, rejeição, problema)"
+  },
+  {
+   "n": 19,
+   "drive_id": "1PX_QyLmeBAoPhdGWwtwQqlwtJR8CkXO4",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.25,
+   "desc": "caminhando em frente a ponte e orla (Vitória, expansão, caminhada)"
+  },
+  {
+   "n": 20,
+   "drive_id": "1SZqj1L-YUJ8Bt2F2C6ow_6Yq91ryorKX",
+   "w": 768,
+   "h": 1376,
+   "face_y": 0.25,
+   "desc": "escritório, apontando para si mesmo, equipe ao fundo (e eu?, responsabilidade)"
+  },
+  {
+   "n": 21,
+   "drive_id": "1Vky-N1PtA2mHF9K4IS2k5fnWJmyJB8ib",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.21,
+   "desc": "sorrindo no café com notebook (atendimento, trabalho leve)"
+  },
+  {
+   "n": 22,
+   "drive_id": "1_m-GZNcEmrz2ZfuqqRKgr2ZtIpKebPey",
+   "w": 928,
+   "h": 1152,
+   "face_y": 0.23,
+   "desc": "mão no queixo, pensando, morro com casas ao fundo (reflexão, dúvida, decisão)"
+  },
+  {
+   "n": 23,
+   "drive_id": "1eSszCjUuMzg7Z31wv8zCp_g6AQ32kszX",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "choque, mãos na cabeça, mesa cheia de papéis (caos, sobrecarga, burocracia)"
+  },
+  {
+   "n": 24,
+   "drive_id": "1gFPhQ845WwejQBiVf26eg_FhIP-n6o_8",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "sacada com vista da cidade (visão, estratégia, mercado)"
+  },
+  {
+   "n": 25,
+   "drive_id": "1ljW6hZPEX5tcwhWUeP4lrvWmv_bmajSO",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.2,
+   "desc": "mão na testa, expressão de erro no escritório (ops, falha, erro)"
+  },
+  {
+   "n": 26,
+   "drive_id": "1n-DKKFwvRIuddT1-H0v29ub_an3aav9_",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "enxugando lágrima, blazer, notebook (frustração, cliente insatisfeito, perda)"
+  },
+  {
+   "n": 27,
+   "drive_id": "1orJTH7DcnsZ1bpvcAnjIkGJPh0-waVKw",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "conversando com colega no escritório, jaqueta marrom (conversa, atendimento, feedback)"
+  },
+  {
+   "n": 28,
+   "drive_id": "1rhn_R5JyC07hxlzH_D5qNzHrhbD9_QlP",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.33,
+   "desc": "dedo indicador para cima (ideia, dica, atenção)"
+  },
+  {
+   "n": 29,
+   "drive_id": "1sVtpwlYGlCLWeUvZ8L7yRDBKPy7eh_WG",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.16,
+   "desc": "sorrindo digitando no notebook, vista lateral (trabalho, produtividade)"
+  },
+  {
+   "n": 30,
+   "drive_id": "1saXrX6mhYRXFTUoiGG59BLIBzCuTSnMr",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.17,
+   "desc": "sorrindo olhando notebook em café movimentado (cafeteria, pequeno negócio)"
+  },
+  {
+   "n": 31,
+   "drive_id": "1togDx-rN9j1Sh-KooPPOM87Y8i4OhGaR",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.17,
+   "desc": "olhando o relógio de pulso assustado, escritório com gente correndo (pressa, prazo, entrega rápida, tempo)"
+  },
+  {
+   "n": 32,
+   "drive_id": "1xF3dfpxyTxsipfui-VbgWlw8BfhZRlhF",
+   "w": 1376,
+   "h": 768,
+   "face_y": 0.12,
+   "desc": "estresse, mãos na cabeça, notebook e celular na mesa (pressão, prazo, sobrecarga)"
+  }
+ ]
+}
