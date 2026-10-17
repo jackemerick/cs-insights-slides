@@ -1,0 +1,73 @@
+{
+ "set": "2026-10-17-slot3",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "kicker": "ATENDIMENTO",
+   "title": "Robô no atendimento: seu cliente quer, mas com uma condição",
+   "body": "Uma pesquisa com mais de 3 mil clientes mostra o que eles exigem da tecnologia.",
+   "photo": "27.jpg",
+   "photo_fx": 0.64,
+   "photo_fy": 0.21,
+   "box_pos": "bottom",
+   "photo_src": 27
+  },
+  {
+   "kicker": "A CRENÇA COMUM",
+   "title": "Robô atende mais barato, então basta?",
+   "body": "Muita gente acha que colocar um robô no WhatsApp resolve o atendimento e ainda economiza.\n\nPense na loja do bairro: o robô responde às 23h, mas se o cliente com problema não consegue falar com ninguém, ele não volta. Economizar na conversa pode sair caro na hora da recompra."
+  },
+  {
+   "kicker": "A PESQUISA",
+   "title": "3.566 clientes foram ouvidos",
+   "body": "A Gartner, consultoria americana que estuda empresas, perguntou a 3.566 clientes, entre fevereiro e março de 2026, o que acham da inteligência artificial (IA) no atendimento. O resultado saiu em agosto. Não é opinião de especialista: é a voz de quem compra."
+  },
+  {
+   "kicker": "OS NÚMEROS",
+   "title": "Querem a IA, mas querem gente",
+   "body": "Metade acha o atendimento mais fácil com IA. Mas 87% dizem ser essencial poder falar com uma pessoa quando precisar.",
+   "foot": "Fonte: Gartner, 3.566 clientes, 2026",
+   "chart": {
+    "type": "bar",
+    "title": "Clientes que concordam (%)",
+    "labels": [
+     "IA facilita",
+     "Quer humano"
+    ],
+    "values": [
+     50,
+     87
+    ],
+    "unit": "%",
+    "hi": 1,
+    "note": "FONTE: Gartner 2026"
+   }
+  },
+  {
+   "kicker": "O ERRO COMUM",
+   "title": "Robô como porta obrigatória",
+   "body": "A própria Gartner recomenda não usar a IA como primeiro passo obrigatório para todo problema. Quem passa por várias tentativas que falham antes de chegar a uma pessoa tende a não querer usar a ferramenta de novo. Imagine a clínica que só atende por robô: o paciente irritado desiste."
+  },
+  {
+   "kicker": "EXEMPLO DO DIA A DIA",
+   "title": "A padaria com encomenda no WhatsApp",
+   "body": "Uma padaria recebe encomendas de bolo pelo WhatsApp. O robô responde cardápio e preço, ótimo. Mas se a encomenda dá errado, o cliente precisa de alguém de verdade em poucos minutos. O robô cuida do simples e a pessoa cuida do que pesa para o cliente."
+  },
+  {
+   "kicker": "O QUE MUDA",
+   "title": "Tecnologia no simples, gente no importante",
+   "body": "Use a tecnologia para o que se repete: horário, preço, status do pedido. Deixe pessoas para reclamação, dúvida de valor alto e cliente chateado. Esse equilíbrio faz o cliente se sentir cuidado, e cliente cuidado compra de novo e indica."
+  },
+  {
+   "kicker": "CHECKLIST",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Teste seu atendimento como cliente: conte quantos toques até falar com uma pessoa.\n\n2. Coloque em toda mensagem automática a opção de falar com um atendente.\n\n3. Anote quantos clientes pedem uma pessoa e por quê."
+  },
+  {
+   "kicker": "PRÓXIMO PASSO",
+   "title": "Acompanhe mais dicas de atendimento",
+   "body": "Toda semana, ideias simples para o seu cliente voltar sempre.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
