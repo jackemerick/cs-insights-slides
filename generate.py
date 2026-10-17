@@ -223,7 +223,17 @@ def render_cover(s, brand):
     return img.convert("RGB")
 
 
+def fix_cta(t):
+    """CTA sem @: troca por 'este perfil' (uma unica acao por post)."""
+    if not t:
+        return t
+    import re
+    t = re.sub(r"@\w[\w.]*", "este perfil", t)
+    return t
+
+
 def render_content(s, brand, last):
+    s = {k: v for k, v in s.items() if k != "cta_sub"}  # uma unica acao por post
     img = Image.new("RGBA", (W, H), NAVY + (255,))
     d = ImageDraw.Draw(img, "RGBA")
     d.rectangle([M, 96, M + 90, 102], fill=ORANGE)
@@ -231,7 +241,7 @@ def render_content(s, brand, last):
     title = clean_title(s["title"]).upper()
     body = s.get("body", "")
     has_chart = bool(s.get("chart"))
-    cta = s.get("cta")
+    cta = fix_cta(s.get("cta"))
     foot = s.get("foot")
     inner = W - M - 70
     ft, tl, tlh, tsize = fit_text(d, title, bebas, inner, 3 * 140, 124, 72, 1.0, step=6, max_lines=3)
@@ -245,10 +255,10 @@ def render_content(s, brand, last):
         chart_h = min(760, free_total - 10)
         fb, bl, blh, bsize = inter("Regular", 40), [], 0, 40
     elif has_chart:
-        for chart_h in (500, 450, 400, 350, 310):
+        for chart_h in (500, 450, 400, 350, 310, 280, 250):
             avail = free_total - chart_h - 34
-            fb, bl, blh, bsize = fit_text(d, body, lambda z: inter("Regular", z), inner, avail, 48, 30, 1.38)
-            if bsize >= 38 or chart_h == 310:
+            fb, bl, blh, bsize = fit_text(d, body, lambda z: inter("Regular", z), inner, avail, 48, 28, 1.38)
+            if (bsize >= 38 and len(bl) * blh <= avail) or chart_h == 250:
                 break
     else:
         chart_h = 0
@@ -266,7 +276,7 @@ def render_content(s, brand, last):
         fc, cl, clh, _ = fit_text(d, cta.upper(), bebas, W - 70 - M - 60, cta_h - 24, 78, 44, 1.0, step=4, max_lines=1)
         cw = d.textlength(cl[0], font=fc)
         d.text((M + (W - 70 - M - cw) / 2, by0 + (cta_h - fc.size * 1.0) / 2 - 2), cl[0], font=fc, fill=NAVY)
-        if s.get("cta_sub"):
+        if False and s.get("cta_sub"):
             fs = inter("Medium", 27)
             sw = d.textlength(s["cta_sub"], font=fs)
             d.text((M + (W - 70 - M - sw) / 2, by1 + 20), s["cta_sub"], font=fs, fill=SOFT)
