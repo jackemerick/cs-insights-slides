@@ -52,7 +52,7 @@ def render(spec_path):
             p = p.resize((int(p.width * r) + 1, int(p.height * r) + 1))
             l, t = (p.width - W) // 2, (p.height - ph) // 2
             img.paste(p.crop((l, t, l + W, t + ph)), (0, 0))
-            top = ph - 190
+            top = ph - 90
         d.rectangle([M, 130 + top, M + 90, 136 + top], fill=ORANGE)
         d.text((M, 160 + top), s.get("kicker", "").upper(), font=inter("SemiBold", 28), fill=SOFT)
         big = s.get("big")
