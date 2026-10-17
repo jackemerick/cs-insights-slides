@@ -20,7 +20,7 @@ jobs:
           cat = json.load(open('photos_catalog.json'))
           for p in cat['photos']:
               out = 'photos/%02d.jpg' % p['n']
-              subprocess.run(['gdown', '--id', p['drive_id'], '-O', out], check=True)
+              subprocess.run(['gdown', p['drive_id'], '-O', out], check=True)
           PY
           ls -la photos | head -50
       - name: Commit
