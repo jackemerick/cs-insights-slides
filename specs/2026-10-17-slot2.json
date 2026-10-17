@@ -1,0 +1,79 @@
+{
+ "set": "2026-10-17-slot2",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "kicker": "VAREJO EM FOCO",
+   "title": "A semana do Dia das Crianças lotou lojas. Quantos clientes voltam?",
+   "body": "As vendas subiram 4% na semana da data, mas o que vale mesmo é quem volta depois.",
+   "photo": "2026-10-17-slot2.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.24,
+   "box_pos": "bottom",
+   "photo_src": 4
+  },
+  {
+   "kicker": "O FATO",
+   "title": "Vendas em alta na semana da data",
+   "body": "Segundo a Getnet, empresa de maquininhas, o varejo brasileiro vendeu 4% a mais na semana do Dia das Crianças (6 a 12 de outubro) do que no mesmo período do ano passado. O Pix cresceu 32% em volume. A loja encheu, mas encheu de quem?"
+  },
+  {
+   "kicker": "ONDE VENDEU MAIS",
+   "title": "Até padaria vendeu mais",
+   "body": "Padarias e confeitarias cresceram 17% na semana, segundo a Getnet. Negócio pequeno também ganhou clientes novos. Falta saber quantos vão voltar.",
+   "foot": "FONTE: Getnet, 6 a 12/10/2026",
+   "chart": {
+    "type": "bar",
+    "title": "Alta de vendas na semana (%)",
+    "labels": [
+     "Variedades",
+     "Uso pessoal",
+     "Supermercado",
+     "Padarias",
+     "Restaurantes"
+    ],
+    "values": [
+     22,
+     19,
+     17,
+     17,
+     16
+    ],
+    "unit": "%",
+    "hi": 3,
+    "note": "FONTE: Getnet"
+   }
+  },
+  {
+   "kicker": "A MÉTRICA",
+   "title": "Taxa de recompra: quem volta",
+   "body": "A taxa de recompra (a retenção de clientes, no jargão do pós-venda) mostra quantos clientes compraram de novo em um prazo, por exemplo 30 dias. Venda de data especial traz gente nova. Só a recompra diz se essa gente virou cliente de verdade."
+  },
+  {
+   "kicker": "A CONTA",
+   "title": "Como calcular, passo a passo",
+   "body": "EXEMPLO ILUSTRATIVO: uma padaria atendeu 200 clientes novos na semana. Em 30 dias, 50 voltaram. Divida 50 por 200: dá 25%. Ou seja, 1 em cada 4 virou freguês e 3 em cada 4 foram embora sem avisar."
+  },
+  {
+   "kicker": "O QUE FAZER",
+   "title": "3 jeitos de fazer o cliente voltar",
+   "body": "Peça o WhatsApp no primeiro atendimento. Mande uma mensagem em até 7 dias agradecendo e convidando para a próxima visita. Anote quem voltou. Assim você descobre o que funciona sem gastar com propaganda."
+  },
+  {
+   "kicker": "O CUIDADO",
+   "title": "Venda alta não é cliente fiel",
+   "body": "Semana forte pode esconder um problema: preço de ocasião atrai quem só vem na promoção. Compare a recompra de quem veio na data especial com a de quem já era freguês. Se a diferença for grande, o ajuste está na recepção do cliente."
+  },
+  {
+   "kicker": "CHECKLIST",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Liste quantos clientes novos você atendeu nos últimos 30 dias.\n\n2. Conte quantos já voltaram e divida: essa é a sua taxa de recompra.\n\n3. Mande hoje uma mensagem para quem ainda não voltou, antes da Black Friday."
+  },
+  {
+   "kicker": "PRÓXIMO PASSO",
+   "title": "Acompanhe dicas para fidelizar clientes",
+   "body": "Toda semana, um jeito simples de cuidar melhor de quem compra do seu negócio.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
