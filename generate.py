@@ -176,28 +176,11 @@ def render_cover(s, brand):
     sd = ImageDraw.Draw(shade)
     for y in range(H):
         a = 40
-        if y < 330:
-            a += int(120 * (1 - y / 330))
         if y > H - 520:
             a += int(110 * (y - (H - 520)) / 520)
         sd.line([(0, y), (W, y)], fill=NAVY + (min(a, 220),))
     img.alpha_composite(shade)
     d = ImageDraw.Draw(img, "RGBA")
-    # masthead de revista
-    fm = bebas(112)
-    mt = brand.upper()
-    ls = 10
-    mw = spaced_w(d, mt, fm, ls)
-    while mw > W - 2 * 60 and fm.size > 60:
-        fm = bebas(fm.size - 4)
-        mw = spaced_w(d, mt, fm, ls)
-    spaced(d, ((W - mw) / 2, 58), mt, fm, WHITE + (245,), ls)
-    d.rectangle([60, 58 + int(fm.size * 1.02) + 14, W - 60, 58 + int(fm.size * 1.02) + 17], fill=ORANGE + (255,))
-    fs = inter("SemiBold", 21)
-    sub = "CUSTOMER SUCCESS  ·  MERCADO  ·  CLIENTES"
-    sw = spaced_w(d, sub, fs, 5)
-    d.text(((W - sw) / 2, 58 + int(fm.size * 1.02) + 32), "", font=fs, fill=SOFT)
-    spaced(d, ((W - sw) / 2, 58 + int(fm.size * 1.02) + 32), sub, fs, SOFT + (235,), 5)
     # caixa de texto (canto reto, fundo translucido)
     bx0, bx1 = 60, W - 60
     pad = 50
@@ -205,7 +188,7 @@ def render_cover(s, brand):
     title = clean_title(s["title"]).upper()
     body = s.get("body", "")
     kick = s.get("kicker", "").upper()
-    max_box_h = 800
+    max_box_h = 900
     size = 168
     while True:
         ft = bebas(size)
