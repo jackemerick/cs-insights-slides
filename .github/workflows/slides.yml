@@ -19,7 +19,11 @@ jobs:
           mkdir -p fonts tmpf && unzip -q inter.zip -d tmpf
           for w in Regular Medium SemiBold ExtraBold; do cp "$(find tmpf -name "Inter-$w.otf" | head -1)" fonts/; done
           curl -sL -o fonts/BebasNeue-Regular.ttf https://raw.githubusercontent.com/google/fonts/main/ofl/bebasneue/BebasNeue-Regular.ttf
-          ls fonts
+          B=https://raw.githubusercontent.com/google/fonts/main/ofl
+          curl -sL -o fonts/BodoniModa.ttf "$B/bodonimoda/BodoniModa%5Bopsz%2Cwght%5D.ttf"
+          curl -sL -o fonts/BodoniModa-Italic.ttf "$B/bodonimoda/BodoniModa-Italic%5Bopsz%2Cwght%5D.ttf"
+          curl -sL -o fonts/Archivo.ttf "$B/archivo/Archivo%5Bwdth%2Cwght%5D.ttf"
+          ls -la fonts
       - run: python generate.py
       - name: Publicar slides
         run: |
