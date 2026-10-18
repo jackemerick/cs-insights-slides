@@ -1,0 +1,62 @@
+{
+ "set": "2026-10-18-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "kicker": "NOVA REGRA DO SAC",
+   "title": "Nova regra manda atender em 20 segundos. E o seu negócio?",
+   "body": "O novo decreto vale para grandes empresas, mas ensina algo a qualquer dono de negócio."
+  },
+  {
+   "kicker": "O QUE ACONTECEU",
+   "title": "Governo endurece as regras do SAC",
+   "body": "Em outubro de 2026, o governo publicou o Decreto 13.135, que muda o atendimento ao consumidor em empresas de setores regulados e bancos digitais. As regras começam a valer 20 dias depois, por volta de 2 de novembro. Entre elas: atendimento humano garantido e cancelamento fácil."
+  },
+  {
+   "kicker": "A ESPERA",
+   "title": "Ligação atendida em 20 segundos",
+   "body": "Pelo menos 80% das ligações devem ser atendidas em até 20 segundos. As demais, em no máximo 5 minutos. Se a ligação cair, a empresa precisa ligar de volta em até 5 minutos, e o cliente não repete tudo de novo. Quanto tempo o seu cliente espera por você?"
+  },
+  {
+   "kicker": "O DADO",
+   "title": "Os prazos que a regra impõe",
+   "body": "Veja quanto tempo a empresa tem para agir em cada situação. Quanto menor o prazo, maior o cuidado.",
+   "foot": "Fonte: Decreto 13.135 (Agência Brasil)",
+   "chart": {
+    "type": "bar",
+    "title": "Prazo máximo da empresa, em dias",
+    "labels": ["Erro na conta", "Histórico", "Resposta"],
+    "values": [2, 5, 7],
+    "unit": " dias",
+    "hi": 0,
+    "note": "FONTE: Decreto 13.135"
+   }
+  },
+  {
+   "kicker": "CANCELAR",
+   "title": "Cancelar não pode virar labirinto",
+   "body": "O cliente poderá pedir o cancelamento em qualquer etapa do atendimento, e o pedido deve ser processado na hora, com comprovante eletrônico. Também não pode ser jogado de canal em canal. Pense na academia do bairro: se cancelar é difícil, o cliente sai irritado e conta para todo mundo."
+  },
+  {
+   "kicker": "A LIÇÃO",
+   "title": "Facilidade também fideliza",
+   "body": "Quem facilita a saída passa confiança. Cliente que cancela com respeito tende a voltar um dia, e quem sai irritado dificilmente volta. Na clínica ou no escritório de contabilidade, um cancelamento tranquilo deixa a porta aberta e ainda revela o motivo da saída, que vale ouro para melhorar."
+  },
+  {
+   "kicker": "NA PRÁTICA",
+   "title": "Cobrança errada: resolva em 48 horas",
+   "body": "Pela regra, cobrança contestada deve ser suspensa na hora e resolvida em até 48 horas. Na loja do bairro, adote o mesmo ritmo: cliente que reclama de valor errado recebe resposta no mesmo dia e solução em dois. Rapidez mostra respeito e evita que a dúvida vire desconfiança."
+  },
+  {
+   "kicker": "CHECKLIST",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Responda hoje as mensagens paradas no WhatsApp e defina um prazo máximo de resposta.\n\n2. Tente cancelar o seu próprio serviço como se fosse cliente e tire o que atrapalha.\n\n3. Escolha um jeito rápido de corrigir cobranças erradas e avise a equipe."
+  },
+  {
+   "kicker": "PRÓXIMO PASSO",
+   "title": "Atenda rápido, antes que cobrem",
+   "body": "Quer mais dicas simples para o cliente voltar sempre? Acompanhe por aqui.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
