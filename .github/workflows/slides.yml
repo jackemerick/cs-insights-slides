@@ -1,7 +1,7 @@
 name: Gerar slides
 on:
   push:
-    paths: ["specs/**", "generate.py", "autophoto.py", ".github/workflows/slides.yml"]
+    paths: ["specs/**", "generate.py", "autophoto.py", "fontfix.py", ".github/workflows/slides.yml"]
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,8 +23,9 @@ jobs:
           curl -sL -o fonts/BodoniModa.ttf "$B/bodonimoda/BodoniModa%5Bopsz%2Cwght%5D.ttf"
           curl -sL -o fonts/BodoniModa-Italic.ttf "$B/bodonimoda/BodoniModa-Italic%5Bopsz%2Cwght%5D.ttf"
           curl -sL -o fonts/Archivo.ttf "$B/archivo/Archivo%5Bwdth%2Cwght%5D.ttf"
+          curl -sL -o fonts/DMSerifDisplay-Regular.ttf "$B/dmserifdisplay/DMSerifDisplay-Regular.ttf"
           ls -la fonts
-      - run: python autophoto.py && python generate.py
+      - run: python autophoto.py && python fontfix.py && python generate.py
       - name: Publicar slides
         run: |
           rm -rf tmpf inter.zip fonts
