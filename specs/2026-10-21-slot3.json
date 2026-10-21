@@ -1,0 +1,72 @@
+{
+ "set": "2026-10-21-slot3",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Spotify agora exige *prova de endereço* no plano Família",
+   "body": "Quem não validar em 7 dias perde o plano. E os clientes já procuram atalhos.",
+   "photo": "22.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.23,
+   "photo_src": 22
+  },
+  {
+   "type": "content",
+   "title": "O Spotify passou a conferir quem mora junto",
+   "body": "O plano Família só vale para quem mora no mesmo endereço. Agora o Spotify pede uma checagem com um código na tela, que muda a cada poucos segundos.\n\nQuem não faz em **7 dias** volta para o plano grátis, com anúncios."
+  },
+  {
+   "type": "content",
+   "title": "E a punição dura 12 meses",
+   "body": "Quem falha na checagem fica **12 meses** sem entrar em outro plano Família ou Duo.\n\nImagine uma academia que trava a catraca sem avisar e ainda proíbe você de voltar por um ano. A regra pode até ser justa, mas o aluno sente como castigo."
+  },
+  {
+   "type": "content",
+   "title": "Regra dura não é cuidado com o cliente",
+   "body": "Muita gente acha que cobrar a regra protege o faturamento. Mas cliente que se sente vigiado procura atalho ou vai embora.\n\nEm fóruns, usuários já comentam como driblar a checagem por videochamada. Isso é **sinal de atrito**."
+  },
+  {
+   "type": "chart",
+   "title": "85% já gastaram menos após um atendimento ruim",
+   "body": "Pesquisa global com 5.811 consumidores. Dado informado pela fornecedora Genesys.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "Gastaram menos/saíram",
+     "Trocam em até 3 falhas",
+     "Saem na 1ª falha"
+    ],
+    "values": [
+     85,
+     66,
+     21
+    ],
+    "unit": "%",
+    "hi": 2,
+    "note": "FONTE: Genesys, pesquisa 2026"
+   },
+   "insight": "Uma experiência ruim já basta para 1 em cada 5 clientes sair"
+  },
+  {
+   "type": "content",
+   "title": "Para o pequeno negócio, o risco é maior",
+   "body": "Imagine uma padaria que só dá desconto com cadastro e trava quem esqueceu o CPF. O cliente do bairro não discute: **troca de padaria**.\n\nGrande empresa tem milhões de clientes. Você depende de cada um que volta."
+  },
+  {
+   "type": "content",
+   "title": "Combine a regra com uma saída",
+   "body": "Antes de bloquear, avise com antecedência e ofereça um caminho. Exemplo: a clínica que cobra falta de consulta avisa por mensagem, oferece remarcar e só depois cobra.\n\nO cliente aceita a regra quando **sente respeito**."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Liste as regras do seu negócio que mais geram reclamação.\n\n2. Para cada uma, escreva um aviso claro e um plano B para o cliente.\n\n3. Pergunte a 5 clientes se a regra pareceu justa e anote as respostas."
+  },
+  {
+   "type": "cta",
+   "title": "Alguma regra sua afasta clientes?",
+   "body": "Mande este post para quem tem negócio e pensem nisso juntos.",
+   "cta": "MANDE PARA UM DONO DE NEGÓCIO"
+  }
+ ]
+}
