@@ -1,0 +1,73 @@
+{
+ "set": "2026-10-21-slot2",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Governo manda o SAC atender em *20 segundos*",
+   "body": "A regra nova vale a partir de 2 de novembro. Veja o que muda para quem vende.",
+   "photo": "21.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.21,
+   "photo_src": 21
+  },
+  {
+   "type": "content",
+   "title": "Falar com gente virou obrigação",
+   "body": "Um decreto novo manda as empresas terem uma pessoa para atender das 8h às 20h, todos os dias. Vale a partir de **2 de novembro**.\n\nRobô pode ajudar, mas não pode barrar o cliente que quer falar com alguém."
+  },
+  {
+   "type": "content",
+   "title": "E a fila precisa andar",
+   "body": "Em pelo menos **8 de cada 10 ligações**, uma pessoa deve atender em até 20 segundos.\n\nCancelar também precisa ser fácil, em qualquer etapa do atendimento. Pense na padaria: ninguém aceita esperar 10 minutos para pagar o pão."
+  },
+  {
+   "type": "content",
+   "title": "Atender rápido não é resolver",
+   "body": "Muita gente acha que cliente satisfeito é cliente atendido rápido.\n\nMas se ele volta no dia seguinte com o mesmo problema, você gastou tempo **duas vezes** e ficou mais perto de perdê-lo."
+  },
+  {
+   "type": "chart",
+   "title": "8 de cada 10 ligações em 20 segundos",
+   "body": "A regra nova controla a espera. Ela não mede se o problema foi resolvido.",
+   "chart": {
+    "type": "donut",
+    "labels": [
+     "Atendidas em 20 s",
+     "Demais ligações"
+    ],
+    "values": [
+     80,
+     20
+    ],
+    "unit": "%",
+    "hi": 0,
+    "big": "8",
+    "big_sub": " de 10",
+    "small": "ATENDIDAS EM 20 S",
+    "note": "FONTE: Decreto 13.135/2026"
+   },
+   "insight": "A fila foi regulada. Resolver o problema ainda é com você"
+  },
+  {
+   "type": "content",
+   "title": "A conta que mostra se resolveu",
+   "body": "Divida os casos resolvidos de primeira pelo total de casos.\n\n**EXEMPLO ILUSTRATIVO:** uma clínica recebe 100 mensagens no mês e resolve 60 de primeira. Resultado: 60%. Os outros 40 voltam e ocupam sua equipe."
+  },
+  {
+   "type": "content",
+   "title": "Descubra por que o cliente volta",
+   "body": "Anote os 3 motivos que mais fazem o cliente chamar de novo. Na clínica, pode ser dúvida sobre horário ou cobrança.\n\nResolva a **causa**, não só a pergunta. Cada motivo eliminado libera tempo da sua equipe."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Anote quantos clientes chamaram e quantos foram resolvidos de primeira.\n\n2. Liste os 3 motivos de retorno mais comuns.\n\n3. Corrija o maior deles: um aviso, um texto pronto ou uma regra clara."
+  },
+  {
+   "type": "cta",
+   "title": "Quer medir isso no seu negócio?",
+   "body": "Conte qual é o seu tipo de negócio e eu respondo com uma ideia prática.",
+   "cta": "CHAME NO DIRECT"
+  }
+ ]
+}
