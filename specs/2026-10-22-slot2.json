@@ -1,0 +1,70 @@
+{
+ "set": "2026-10-22-slot2",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Airbnb proibiu anfitrião de mandar hóspede *lavar louça*",
+   "body": "Regra nova vale para reservas a partir de 20 de novembro. Veja a lição para o seu negócio.",
+   "photo": "12.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 12
+  },
+  {
+   "type": "content",
+   "title": "Hóspede não precisa mais fazer faxina",
+   "body": "O Airbnb mudou a regra. Para reservas feitas a partir de **20 de novembro**, o dono do imóvel não pode exigir que o hóspede tire a roupa de cama, lave a louça, ligue a máquina de lavar ou leve o lixo para fora."
+  },
+  {
+   "type": "content",
+   "title": "Os donos dos imóveis não gostaram",
+   "body": "Segundo o TechCrunch, alguns anfitriões dizem que o Airbnb está virando hotel. Um deles falou em **sair da plataforma** depois de 12 anos.\n\nDo outro lado, hóspedes reclamavam havia anos das listas longas de tarefas antes de ir embora."
+  },
+  {
+   "type": "content",
+   "title": "Cliente cansado não reclama, ele some",
+   "body": "Muito dono de negócio acha que, se o cliente pagou, qualquer exigência é aceitável. Mas quem sente que **paga e ainda trabalha** deixa nota baixa, não volta e conta para os amigos. Nem precisa de briga para perder a venda."
+  },
+  {
+   "type": "chart",
+   "title": "Dar trabalho ao cliente custa caro",
+   "body": "Entre clientes que tiveram muito trabalho, quantos ficaram mais desleais com a empresa.",
+   "chart": {
+    "type": "hbar",
+    "labels": [
+     "Deu muito trabalho",
+     "Foi fácil"
+    ],
+    "values": [
+     96,
+     9
+    ],
+    "unit": "%",
+    "hi": 0,
+    "note": "FONTE: Gartner, via Ringly"
+   },
+   "insight": "Quando é fácil, só 9% perdem a confiança"
+  },
+  {
+   "type": "content",
+   "title": "Como medir o esforço do cliente",
+   "body": "Depois de um momento-chave, pergunte: \"Foi fácil resolver?\" Peça nota de 1 a 7. Conte quem deu 5, 6 ou 7 e divida pelo total.\n\n**EXEMPLO ILUSTRATIVO:** de 50 clientes, 40 deram 5 a 7. Resultado: 80% acharam fácil."
+  },
+  {
+   "type": "content",
+   "title": "Ache onde o cliente trava",
+   "body": "Exemplo: numa clínica, a paciente liga, espera, preenche ficha em papel e ainda manda o exame por WhatsApp. Cada etapa soma esforço.\n\nPergunte em qual foi mais difícil e **corte a maior**: ficha online, por exemplo."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Escolha um momento: compra, entrega ou atendimento.\n\n2. Pergunte a 10 clientes: \"De 1 a 7, foi fácil?\"\n\n3. Ache a etapa mais difícil e tire um passo dela."
+  },
+  {
+   "type": "cta",
+   "title": "Quer uma lição simples por dia?",
+   "body": "Siga este perfil e receba dicas de cuidado com o cliente para o seu negócio.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
