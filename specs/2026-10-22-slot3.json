@@ -1,0 +1,101 @@
+{
+ "set": "2026-10-22-slot3",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Netflix cresceu *11,8%* e a ação caiu quase 5%",
+   "body": "Crescer não bastou. Veja o que isso ensina a quem tem loja, clínica ou escritório.",
+   "photo": "24.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 24
+  },
+  {
+   "type": "content",
+   "title": "A Netflix cresceu e mesmo assim caiu",
+   "body": "Nesta semana, a Netflix mostrou o resultado do trimestre. A receita subiu **11,8%**, para US$ 12,87 bilhões. Parece ótimo. Mas é o ritmo mais lento em quase 3 anos, e a previsão de receita com anúncios foi reduzida."
+  },
+  {
+   "type": "content",
+   "title": "E a bolsa reagiu na mesma hora",
+   "body": "Na quarta, as ações caíram quase **5%**. No ano, a queda já passa de 26%. Mais de 20 corretoras (empresas que analisam ações) reduziram a nota de preço que dão para a Netflix."
+  },
+  {
+   "type": "content",
+   "title": "Vender mais não prova que está tudo bem",
+   "body": "Muita gente acha que, se a venda sobe, o negócio está saudável. O mercado olhou outra coisa: **o ritmo**. Quando a conquista de gente nova desacelera, pesa quanto os clientes de hoje continuam comprando."
+  },
+  {
+   "type": "content",
+   "title": "O ritmo importa mais que o tamanho",
+   "body": "A Netflix ainda faturou **US$ 12,87 bilhões** em três meses. Mesmo assim, o investidor reagiu porque o crescimento foi o mais lento em quase 3 anos.\n\nNo seu negócio, vale a mesma régua: o ritmo está subindo ou caindo?"
+  },
+  {
+   "type": "chart",
+   "title": "Cuidar do cliente muda a curva",
+   "body": "De 100 clientes, veja quantos ainda compram a cada mês, com e sem cuidado depois da venda.",
+   "chart": {
+    "type": "line",
+    "labels": [
+     "Mês 1",
+     "Mês 2",
+     "Mês 3",
+     "Mês 4",
+     "Mês 5",
+     "Mês 6"
+    ],
+    "values": [
+     100,
+     82,
+     70,
+     62,
+     57,
+     54
+    ],
+    "series": [
+     {
+      "name": "Sem cuidado",
+      "values": [
+       100,
+       82,
+       70,
+       62,
+       57,
+       54
+      ]
+     },
+     {
+      "name": "Com cuidado",
+      "values": [
+       100,
+       91,
+       86,
+       83,
+       81,
+       80
+      ]
+     }
+    ],
+    "unit": "",
+    "note": "EXEMPLO ILUSTRATIVO"
+   },
+   "insight": "Sem cuidado depois da venda, a curva despenca"
+  },
+  {
+   "type": "content",
+   "title": "Cuide de quem já comprou",
+   "body": "A padaria que manda uma mensagem a quem encomendou o bolo de aniversário (\"Deu tudo certo? Quer encomendar de novo?\") dá um motivo para o cliente voltar.\n\n**Cuidar depois da venda é investimento**, não gasto."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Liste seus 10 melhores clientes e a data da última compra.\n\n2. Mande uma mensagem perguntando se deu tudo certo.\n\n3. Anote quem respondeu e quem voltou a comprar em 30 dias."
+  },
+  {
+   "type": "cta",
+   "title": "Quer um modelo de mensagem pós-venda?",
+   "body": "Escreva a palavra no comentário e eu mostro um exemplo pronto para o seu tipo de negócio.",
+   "cta": "COMENTE EU QUERO"
+  }
+ ]
+}
