@@ -1,0 +1,3 @@
+Pauta: Queda da American Express (22/10/2026) e métrica de taxa de aviso proativo em incidentes
+Fonte principal: GV Wire, https://gvwire.com/2026/10/22/american-express-down-for-thousands-of-users-downdetecter-shows/
+Primeira linha: A American Express acabou de falhar na hora de pagar a conta.
