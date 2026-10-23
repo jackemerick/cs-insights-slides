@@ -1,0 +1,73 @@
+{
+ "set": "2026-10-23-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "A Comcast perdeu *144 mil clientes* em 3 meses",
+   "body": "Parte saiu quando a promoção acabou e a conta subiu. Veja o que fazer na sua loja.",
+   "photo": "25.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.2,
+   "photo_src": 25
+  },
+  {
+   "type": "content",
+   "title": "Uma gigante de internet perdeu clientes",
+   "body": "A Comcast é uma das maiores empresas de internet dos Estados Unidos. Nesta quinta, ela mostrou o resultado de três meses: **144 mil clientes** de internet foram embora. Um ano antes, foram cerca de 91 mil."
+  },
+  {
+   "type": "content",
+   "title": "A promoção acabou e a conta subiu",
+   "body": "A própria empresa explicou: muita gente saía de promoções de dois anos. O preço voltou ao normal, a conta subiu e o cliente foi comparar. É como a academia do bairro com matrícula grátis: no mês do preço cheio, o aluno faz as contas."
+  },
+  {
+   "type": "content",
+   "title": "Desconto traz cliente, mas não o segura",
+   "body": "Muito dono de negócio acha que o cliente da promoção já está conquistado. Não está. Ele só conheceu você mais barato. Quando o preço normal chega, ele se pergunta: vale a pena? Se ninguém respondeu antes, ele decide sozinho."
+  },
+  {
+   "type": "content",
+   "title": "Cliente que sai pesa no caixa pequeno",
+   "body": "Para a Comcast, 144 mil saídas se perdem no meio de milhões de clientes. Na sua loja, perder 5 clientes que compram todo mês já pesa no caixa. E conquistar cliente novo dá mais trabalho do que manter o atual."
+  },
+  {
+   "type": "chart",
+   "title": "A saída foi cuidar de quem ficou",
+   "body": "Segundo a empresa, 7 em cada 10 clientes com linha grátis estão passando a pagar.",
+   "chart": {
+   "type": "donut",
+    "labels": [
+     "Passam a pagar",
+     "Seguem no grátis"
+    ],
+    "values": [
+     70,
+     30
+    ],
+    "unit": "%",
+    "hi": 0,
+    "big": "7",
+    "big_sub": " de 10",
+    "small": "PASSAM A PAGAR",
+    "note": "FONTE: Comcast, via Motley Fool"
+   },
+   "insight": "Quem vê valor continua, mesmo quando o desconto acaba."
+  },
+  {
+   "type": "content",
+   "title": "Fale com o cliente antes da virada",
+   "body": "Antes da promoção acabar, chame o cliente. Mostre o que ele já ganhou: **tempo, pedidos, resultado**. Exemplo: o escritório de contabilidade que avisa o cliente 30 dias antes do reajuste e mostra tudo o que fez por ele no ano."
+  },
+  {
+   "type": "content",
+   "title": "Checklist: 3 passos para esta semana",
+   "body": "1. Liste os clientes em promoção e a data em que ela acaba.\n\n2. Mande mensagem 30 dias antes e lembre o que ele já ganhou.\n\n3. Ofereça um plano justo para ficar e anote quem aceitou."
+  },
+  {
+   "type": "cta",
+   "title": "Quer lembrar disso na segunda-feira?",
+   "body": "Guarde este post e comece pelo passo 1 ainda hoje.",
+   "cta": "SALVE PARA FAZER DEPOIS"
+  }
+ ]
+}
