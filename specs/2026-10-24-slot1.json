@@ -1,0 +1,70 @@
+{
+ "set": "2026-10-24-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Spotify dá *7 dias* e pode barrar o cliente por 12 meses",
+   "body": "A regra nova do plano família irritou usuários. Veja o que isso ensina a quem tem loja ou clínica.",
+   "photo": "22.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.23,
+   "photo_src": 22
+  },
+  {
+   "type": "content",
+   "title": "O Spotify vai conferir quem mora junto",
+   "body": "Na divulgação de resultados desta semana, o Spotify confirmou que vai verificar o plano família. O membro escaneia um código (QR code) no celular de quem paga, para provar que mora na mesma casa. A empresa chama isso de **melhoria de rotina**."
+  },
+  {
+   "type": "content",
+   "title": "Quem não provar fica de fora",
+   "body": "O membro tem **7 dias** depois do aviso para fazer a verificação. Se perder o prazo, não entra em outro plano família ou dupla por **12 meses**. Sobra o plano individual pago ou o grátis com anúncios."
+  },
+  {
+   "type": "content",
+   "title": "Cliente fiel virou suspeito",
+   "body": "Muito dono de negócio acha que regra firme basta e que o cliente entende sozinho. Mas quem paga em dia e é tratado como suspeito se sente **punido sem ter errado**. No Reddit, há usuário dizendo que cancela se tiver de repetir o processo."
+  },
+  {
+   "type": "chart",
+   "title": "Poucos dias para provar, um ano de castigo",
+   "body": "Sete dias para provar. Doze meses (365 dias) de bloqueio se falhar.",
+   "chart": {
+    "type": "bar",
+    "labels": [
+     "Prazo para verificar",
+     "Bloqueio se falhar"
+    ],
+    "values": [
+     7,
+     365
+    ],
+    "unit": " dias",
+    "hi": 1,
+    "note": "FONTE: TechCrunch e TechRadar"
+   },
+   "insight": "Prazo curto e castigo longo pesam no cliente"
+  },
+  {
+   "type": "content",
+   "title": "Na sua loja, o efeito é maior",
+   "body": "Uma gigante perde alguns assinantes e segue em frente. Exemplo: na academia do bairro, 5 alunos que saem por se sentirem vigiados já pesam no caixa do mês.\n\nCliente que se sente **desconfiado** raramente reclama: ele some."
+  },
+  {
+   "type": "content",
+   "title": "Mude a regra sem ofender o cliente",
+   "body": "Avise antes, explique o motivo e ofereça ajuda de uma pessoa. Exemplo: o escritório de contabilidade que muda o prazo de envio de documentos avisa 30 dias antes e **liga para os clientes mais antigos**."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Liste uma regra sua que o cliente pode achar chata (prazo, taxa, cancelamento).\n\n2. Escreva o motivo em uma frase simples e avise com antecedência.\n\n3. Ofereça um jeito fácil de resolver, com uma pessoa para ajudar."
+  },
+  {
+   "type": "cta",
+   "title": "Algum conhecido está mudando uma regra?",
+   "body": "Quem muda prazo, preço ou regra precisa avisar bem. Envie este post para quem pode usar isso agora.",
+   "cta": "MANDE PARA UM DONO DE NEGÓCIO"
+  }
+ ]
+}
