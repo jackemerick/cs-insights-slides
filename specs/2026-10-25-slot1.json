@@ -1,0 +1,76 @@
+{
+ "set": "2026-10-25-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Bradesco lidera reclamações no Banco Central com *6.333 queixas*",
+   "body": "O que um banco gigante ensina a quem tem loja, clínica ou escritório.",
+   "photo": "26.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 26
+  },
+  {
+   "type": "content",
+   "title": "O Banco Central fez um ranking de reclamações",
+   "body": "Toda reclamação em que o Banco Central vê razão para o cliente entra na conta. No 3º trimestre de 2026, o Bradesco ficou em **primeiro lugar**, de novo. Foram 6.333 casos em que o cliente tinha razão."
+  },
+  {
+   "type": "content",
+   "title": "Quase sempre é cartão e crédito",
+   "body": "Os assuntos que mais geraram queixa foram cartão de crédito e serviços de crédito. São coisas que mexem no bolso do cliente. E bolso mexido sem explicação vira reclamação rápido. Isso vale para banco e para padaria."
+  },
+  {
+   "type": "content",
+   "title": "Ninguém reclama no primeiro dia",
+   "body": "Muita gente acha que reclamação é coisa de cliente chato. Quem chega a reclamar fora da empresa já tentou resolver com ela antes e **não conseguiu**. A reclamação grande começa como um recado pequeno ignorado."
+  },
+  {
+   "type": "chart",
+   "title": "Quem mais recebeu reclamação com razão",
+   "body": "Reclamações com razão para cada 1 milhão de clientes, no 3º trimestre de 2026.",
+   "chart": {
+    "type": "hbar",
+    "labels": [
+     "Bradesco",
+     "C6 Bank",
+     "Itaú",
+     "Santander",
+     "Nubank"
+    ],
+    "values": [
+     57.23,
+     52.31,
+     43.2,
+     29.75,
+     10.68
+    ],
+    "unit": "",
+    "hi": 0,
+    "note": "FONTE: Banco Central, 3º tri 2026"
+   },
+   "insight": "Mesmo gigantes perdem pontos quando o cliente não é ouvido."
+  },
+  {
+   "type": "content",
+   "title": "Na sua loja, o recado vem antes",
+   "body": "Numa clínica, o recado é o cliente que pergunta duas vezes o mesmo preço. Na padaria, é o pedido que volta errado. Se ninguém anota e resolve, o cliente não reclama de novo: ele **só some**."
+  },
+  {
+   "type": "content",
+   "title": "Resolva na primeira vez que ele avisar",
+   "body": "Exemplo: uma loja de roupas faz a troca na hora e liga dois dias depois para saber se deu certo. Esse telefonema custa um minuto. Um cliente perdido custa **todas as compras** que ele faria com você."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Anote toda reclamação ou dúvida repetida em uma planilha simples.\n\n2. Escolha uma pessoa responsável por cada caso e combine um prazo.\n\n3. Avise o cliente quando resolver, antes que ele cobre."
+  },
+  {
+   "type": "cta",
+   "title": "Quer mais ideias para segurar clientes?",
+   "body": "Aqui, uma notícia de mercado vira um plano simples para o seu negócio.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
