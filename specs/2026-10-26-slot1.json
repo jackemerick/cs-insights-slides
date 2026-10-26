@@ -1,0 +1,94 @@
+{
+ "set": "2026-10-26-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Vivo juntou Netflix e Disney+ na conta com *até 40% off*",
+   "body": "O que um pacote de assinaturas ensina a quem tem loja, clínica ou escritório.",
+   "photo": "05.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.17,
+   "photo_src": 5
+  },
+  {
+   "type": "content",
+   "title": "A Vivo lançou pacotes de streaming",
+   "body": "Quem tem celular ou internet da Vivo agora pode contratar Netflix, Disney+ e outros serviços na mesma conta. Os pacotes começam em **R$ 49,90 por mês** e dão até 40% de desconto em relação a assinar tudo separado."
+  },
+  {
+   "type": "content",
+   "title": "Sem contrato que prenda o cliente",
+   "body": "Segundo o site Teletime, os pacotes não exigem fidelidade. Ou seja, o cliente pode sair quando quiser. Então a empresa precisa dar um bom motivo para ele ficar: uma conta só, preço menor e menos coisas para lembrar de pagar."
+  },
+  {
+   "type": "content",
+   "title": "Cliente solto sai pelo primeiro preço melhor",
+   "body": "Muito dono de negócio acha que cliente que gosta do produto fica para sempre. Mas quem compra só uma coisa avulsa **corta primeiro** quando o orçamento aperta. Gostar não basta. Falta um motivo prático para continuar com você."
+  },
+  {
+   "type": "chart",
+   "title": "O que um pacote pode mudar em 6 meses",
+   "body": "Simulação de 100 clientes novos de uma academia de bairro, com e sem plano combinado.",
+   "chart": {
+    "type": "line",
+    "labels": [
+     "Mês 1",
+     "Mês 2",
+     "Mês 3",
+     "Mês 4",
+     "Mês 5",
+     "Mês 6"
+    ],
+    "series": [
+     {
+      "name": "Só mensalidade",
+      "values": [
+       100,
+       82,
+       68,
+       58,
+       50,
+       44
+      ]
+     },
+     {
+      "name": "Com pacote",
+      "values": [
+       100,
+       90,
+       82,
+       76,
+       72,
+       68
+      ]
+     }
+    ],
+    "unit": "%",
+    "hi": 5,
+    "note": "EXEMPLO ILUSTRATIVO"
+   },
+   "insight": "Cada mês a mais é receita que você não precisa reconquistar."
+  },
+  {
+   "type": "content",
+   "title": "No seu negócio, a lógica é a mesma",
+   "body": "Pense em uma academia de bairro. O aluno que paga só a mensalidade some no primeiro aperto. Já o que tem plano com avaliação e aula extra tem **mais motivos** para ficar. Quanto mais coisas úteis juntas, menos vontade de trocar."
+  },
+  {
+   "type": "content",
+   "title": "Junte o que seu cliente já compra",
+   "body": "Pense em uma clínica de estética. Em vez de vender só a sessão, ofereça um pacote de 4 sessões com retorno de avaliação incluído. O cliente paga menos por visita e você garante que ele volte. **Todo mundo ganha.**"
+  },
+  {
+   "type": "content",
+   "title": "Seu checklist para esta semana",
+   "body": "1. Liste o que seu cliente compra de você e de outros.\n\n2. Monte um pacote com 2 ou 3 itens e preço menor que a soma.\n\n3. Ofereça a 10 clientes e anote quantos voltam em 30 dias."
+  },
+  {
+   "type": "cta",
+   "title": "Salve este checklist para montar seu pacote",
+   "body": "Na segunda, abra o post e escolha os 3 itens do seu primeiro pacote.",
+   "cta": "SALVE PARA FAZER DEPOIS"
+  }
+ ]
+}
