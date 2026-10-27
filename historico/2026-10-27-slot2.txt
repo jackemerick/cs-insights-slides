@@ -1,0 +1,4 @@
+Pauta: Cenário da Marina (gestora de CS): 41 de 120 clientes novos sem passar da tela de boas-vindas e a métrica de tempo até o primeiro valor
+Modo: B
+Livro: Product-Led Growth, Wes Bush
+Primeira linha: Terça, 17h02. A Marina fecha o mês e vê que 41 dos 120 clientes novos nunca passaram da tela de boas-vindas.
