@@ -1,0 +1,57 @@
+{
+ "set": "2026-10-27-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Globoplay foi de R$ 16,90 para *R$ 19,90* e mexeu em 3 coisas",
+   "body": "Veja como subir o preço da sua loja sem perder cliente.",
+   "photo": "04.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.21,
+   "photo_src": 4
+  },
+  {
+   "type": "content",
+   "title": "O que mudou no plano mais barato",
+   "body": "O plano com anúncios do Globoplay foi de R$ 16,90 para **R$ 19,90** por mês, no plano anual. Os canais subiram de 8 para mais de 20. Por outro lado, as telas ao mesmo tempo caíram de 3 para 2, segundo o Tecnoblog."
+  },
+  {
+   "type": "content",
+   "title": "Quem ganhou e quem perdeu",
+   "body": "Quem acompanha esporte ganhou canais por um preço pouco maior. Já a família que dividia a conta em 3 telas perdeu uma. O mesmo aumento é recebido de formas bem diferentes por cada cliente."
+  },
+  {
+   "type": "content",
+   "title": "Aumento pequeno também faz cliente sair",
+   "body": "Muito dono de negócio acha que R$ 3 a mais passa batido. Só que o cliente não olha o valor: olha o que **sentiu que perdeu**. Aviso mal dado e benefício cortado pesam mais que o preço."
+  },
+  {
+   "type": "stat",
+   "title": "O aumento do plano de entrada",
+   "stat": "+17,7%",
+   "body": "Foi de R$ 16,90 para R$ 19,90. O Premium subiu 8,7% e o plano com jogos do Brasileirão caiu 18,4%.",
+   "note": "FONTE: Tecnoblog (26/10/2026)"
+  },
+  {
+   "type": "content",
+   "title": "Na sua loja, o efeito é o mesmo",
+   "body": "Uma padaria sobe o café de R$ 6 para R$ 7 e diminui o copo, sem avisar. O cliente fiel percebe e vai para a concorrente. Se avisa antes e põe um pãozinho junto, ele entende. O que pesa é a **surpresa**."
+  },
+  {
+   "type": "content",
+   "title": "Suba o preço entregando algo junto",
+   "body": "A Globo subiu o plano de entrada, mas colocou mais de 20 canais nele. Faça igual: se a clínica reajusta a consulta, inclua um retorno grátis em 30 dias. O cliente vê o **ganho** antes de ver o aumento."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Separe seus clientes: quem compra sempre e quem compra de vez em quando.\n\n2. Avise o reajuste 15 dias antes, com o benefício novo na frente.\n\n3. Um mês depois, ligue para 5 clientes fiéis e pergunte o que acharam."
+  },
+  {
+   "type": "cta",
+   "title": "Mande para um dono de negócio que vai reajustar preço",
+   "body": "Pode poupar uma dor de cabeça esta semana.",
+   "cta": "MANDE PARA UM DONO DE NEGÓCIO"
+  }
+ ]
+}
