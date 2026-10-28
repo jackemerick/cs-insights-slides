@@ -1,0 +1,73 @@
+{
+ "set": "2026-10-28-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Quinta, 18h40: ela viu que *3 semanas passaram sem cliente novo*",
+   "body": "Veja o que a Carla mudou na rotina e como você pode copiar na sua loja.",
+   "photo": "32.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.12,
+   "photo_src": 32
+  },
+  {
+   "type": "content",
+   "title": "Carla tem um escritório de contabilidade",
+   "body": "Ela atende clientes, resolve problemas, cobra quem atrasa e ainda tenta vender.\n\nQuando o mês enche, some a busca por gente nova. Quando o mês esvazia, ela liga para todo mundo no desespero."
+  },
+  {
+   "type": "content",
+   "title": "Um mês cheio, outro mês fraco",
+   "body": "Parece azar, mas é rotina. Sem tempo fixo para procurar cliente novo, a venda só acontece quando sobra espaço.\n\nE espaço nunca sobra. O dinheiro entra em montanha-russa e o sono vai junto."
+  },
+  {
+   "type": "content",
+   "title": "O problema não é falta de esforço",
+   "body": "A crença comum é: preciso trabalhar mais. Mas a Carla já trabalha demais.\n\nO erro é uma pessoa fazer **três trabalhos** ao mesmo tempo: procurar cliente, fechar a venda e cuidar de quem já comprou. Um atrapalha o outro."
+  },
+  {
+   "type": "chart",
+   "title": "Três trabalhos, uma pessoa só",
+   "body": "Procurar, fechar e cuidar: cada função pede um foco diferente.",
+   "chart": {
+    "type": "donut",
+    "labels": [
+     "Foco",
+     "Resto"
+    ],
+    "values": [
+     1,
+     2
+    ],
+    "unit": "",
+    "hi": 0,
+    "big": "3",
+    "big_sub": " funções",
+    "small": "NA MESMA PESSOA",
+    "note": "CONCEITO: Predictable Revenue"
+   },
+   "insight": "Quando tudo é seu, nada tem hora marcada."
+  },
+  {
+   "type": "content",
+   "title": "A ideia de um livro conhecido",
+   "body": "O livro Predictable Revenue, de Aaron Ross e Marylou Tyler, defende separar as funções.\n\nUma coisa é abrir conversas com gente nova. Outra é fechar a venda. Outra é cuidar de quem já comprou. Cada uma com foco e rotina próprios."
+  },
+  {
+   "type": "content",
+   "title": "Na prática, a Carla separou a rotina",
+   "body": "Todo dia às 9h, ela reserva **1 hora** só para puxar conversa com empresas do perfil certo. Nesse bloco, não atende cliente nem responde cobrança.\n\nAntes, definiu o cliente ideal: comércios de 5 a 20 funcionários na região."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Escolha 1 hora fixa do dia só para procurar cliente novo.\n\n2. Escreva em uma linha quem é o seu cliente ideal.\n\n3. Toda sexta, anote: conversas abertas, reuniões marcadas e vendas fechadas."
+  },
+  {
+   "type": "cta",
+   "title": "Qual dos 3 trabalhos mais pesa no seu dia?",
+   "body": "Conte qual é o seu e vamos conversar sobre a sua rotina.",
+   "cta": "CHAME NO DIRECT"
+  }
+ ]
+}
