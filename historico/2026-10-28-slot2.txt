@@ -1,0 +1,4 @@
+Pauta: Cenario da Renata (gestora de CS): 24 de 80 clientes novos inativos antes do dia 30 e a metrica de retencao de 100 dias por coorte com marco de valor
+Modo: B
+Livro: Never Lose a Customer Again, Joey Coleman
+Primeira linha: Quarta, 9h10. A Renata abre o painel de onboarding e ve que 24 dos 80 clientes novos do trimestre estao inativos antes do dia 30.
