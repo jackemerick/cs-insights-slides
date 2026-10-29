@@ -1,0 +1,4 @@
+Pauta: Cenário do Paulo (gestor de CS): 90% das contas em verde no health score e 3 contas verdes cancelando; métrica de taxa de acerto do health score contra cancelamentos reais
+Modo: B
+Livro: Customer Success, Nick Mehta, Dan Steinman e Lincoln Murphy
+Primeira linha: Quinta, 14h20. O Paulo olha o health score do trimestre: 90% das contas estão em verde.
