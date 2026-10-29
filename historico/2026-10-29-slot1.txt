@@ -1,0 +1,4 @@
+Pauta: Cenário da Beatriz (gestora de CS): renovação de conta grande travada quando a decisão passa de 1 para 5 pessoas e a métrica de multithreading (contatos ativos por conta)
+Modo: B
+Livro: The Challenger Customer, Adamson, Dixon, Spenner e Toman
+Primeira linha: Terça, 8h15. Beatriz abre o painel e vê a renovação de uma conta grande parada: o contato de sempre sumiu.
