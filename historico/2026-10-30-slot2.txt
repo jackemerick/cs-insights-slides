@@ -1,0 +1,4 @@
+Pauta: Cenário do Rafael (head de CS): NRR de 108% celebrado, mas sem expansão a retenção é 88%; métrica NRR vs retenção sem expansão
+Modo: B
+Livro: Métricas de customer success (Customer Success Glossary, Gainsight)
+Primeira linha: Sexta, 16h40. O Rafael, head de CS de uma empresa de software de gestão, apresenta o NRR de 108% para a diretoria e recebe aplausos.
