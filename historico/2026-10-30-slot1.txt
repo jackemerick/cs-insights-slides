@@ -1,0 +1,4 @@
+Pauta: Cenário da Lúcia (gestora de vendas e pó-v-enda): três painéis com três números diferentes para cliente ativo e a métrica de definição única entre marketing, vendas e CS
+Modo: B
+Livro: Materiais de RevOps (integração de dados e processos de receita)
+Primeira linha: Sexta, 9h30. Lúcia abre a reunião de receita com três painéis e três números diferentes para "cliente ativo".
