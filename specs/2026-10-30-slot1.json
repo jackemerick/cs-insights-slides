@@ -1,0 +1,72 @@
+{
+ "set": "2026-10-30-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Sexta, 9h30: *três painéis, três números* diferentes para cliente ativo",
+   "body": "Veja o que a Lúcia fez e como copiar isso no seu negócio.",
+   "photo": "23.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 23
+  },
+  {
+   "type": "content",
+   "title": "Lúcia abriu a reunião com três relatórios",
+   "body": "Ela cuida de vendas e pós-venda (o cuidado depois da compra) numa empresa que vende sistema para lojas.\n\nNa sexta, 9h30, propaganda, vendas e pós-venda trouxeram um número cada. Todos respondiam à mesma pergunta: quantos clientes ativos temos?"
+  },
+  {
+   "type": "content",
+   "title": "Cada área contava o cliente de um jeito",
+   "body": "Propaganda contava quem fez cadastro: **300**. Vendas contava quem assinou contrato: **280**. Pós-venda contava quem usou o sistema no último mês: **260**.\n\nTrês números, três verdades. E uma reunião inteira perdida."
+  },
+  {
+   "type": "content",
+   "title": "Achar o culpado não resolve nada",
+   "body": "A crença comum: se os números não batem, alguém errou e basta corrigir a planilha.\n\nSó que ninguém errou. Cada área media uma etapa diferente da mesma jornada. Sem uma regra única, cada relatório conta uma história e o cliente some no meio delas."
+  },
+  {
+   "type": "chart",
+   "title": "Três áreas, três jeitos de contar",
+   "body": "O mesmo cliente contado de formas diferentes dentro da empresa.",
+   "chart": {
+    "type": "hbar",
+    "labels": [
+     "Fez cadastro",
+     "Assinou contrato",
+     "Usou no mês"
+    ],
+    "values": [
+     300,
+     280,
+     260
+    ],
+    "unit": "",
+    "hi": 2,
+    "note": "CONCEITO: materiais de RevOps"
+   },
+   "insight": "Mesmo cliente, três contagens: o problema é a régua"
+  },
+  {
+   "type": "content",
+   "title": "Na sua loja isso também acontece",
+   "body": "Pense numa padaria com entrega. O caixa conta cliente de um jeito, o app de delivery de outro e o cartão fidelidade de outro.\n\nSem uma regra só, você não sabe quem voltou, quem sumiu e quem merece um agrado."
+  },
+  {
+   "type": "content",
+   "title": "Combine a régua antes de olhar o número",
+   "body": "O conceito se chama RevOps (organizar propaganda, vendas e pós-venda como um ciclo só). Lúcia escreveu uma definição única para cada etapa.\n\nCliente ativo passou a ser: quem comprou ou usou nos últimos 30 dias. Todo mundo contando igual."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Escreva em uma frase o que é cliente ativo no seu negócio.\n\n2. Escolha UM lugar (caderno, planilha ou sistema) onde esse número vive.\n\n3. Reserve 30 minutos por quinzena para olhar o número com quem atende, vende e entrega."
+  },
+  {
+   "type": "cta",
+   "title": "Quem do seu time precisa ver isso?",
+   "body": "Se hoje cada pessoa conta o cliente de um jeito, vale combinar a régua junto.",
+   "cta": "MANDE PARA UM DONO DE NEGÓCIO"
+  }
+ ]
+}
