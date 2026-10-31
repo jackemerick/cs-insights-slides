@@ -1,0 +1,4 @@
+Pauta: Cenário da Helena (gestora de CS): 9 de 14 cancelamentos tinham NPS 9 ou 10; métrica de esforço do cliente (CES) cruzada com cancelamento em 90 dias
+Modo: B
+Livro: The Effortless Experience, Matthew Dixon, Nick Toman e Rick DeLisi
+Primeira linha: Segunda, 8h40. A Helena abre o relatório de cancelamentos e vê que 9 dos 14 clientes que saíram tinham nota 9 ou 10 no NPS.
