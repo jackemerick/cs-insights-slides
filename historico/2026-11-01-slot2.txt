@@ -1,0 +1,4 @@
+Pauta: Cenario da Marina (gestora de CS): clientes novos levam 30 dias ate o primeiro valor; metrica tempo ate o primeiro valor (mediana por coorte) e squad de onboarding separado da renovacao
+Modo: B
+Livro: Predictable Revenue, Aaron Ross e Marylou Tyler
+Primeira linha: Quarta, 15h10. A Marina, gestora de CS, descobre que cliente novo leva 30 dias para fazer a primeira coisa util no produto.
