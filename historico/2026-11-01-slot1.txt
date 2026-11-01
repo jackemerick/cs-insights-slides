@@ -1,0 +1,4 @@
+Pauta: Cenario do Marcos (dono de loja de bicicletas): R$ 1.200 espalhados em 5 canais sem cliente novo; teste dos 3 aneis (listar, testar, focar) e indicacao da base como canal vencedor
+Modo: B
+Livro: Traction, Gabriel Weinberg e Justin Mares
+Primeira linha: Terca, 7h50. Marcos, dono de uma loja de bicicletas, soma o mes: 5 canais de divulgacao e nenhum trazendo cliente novo.
