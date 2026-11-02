@@ -1,0 +1,4 @@
+Pauta: Cenário da Camila (gestora de CS): 12 ideias de retenção sem nenhuma testada; ciclo de experimentos com coorte, priorização e grupo de controle
+Modo: B
+Livro: Hacking Growth, Sean Ellis e Morgan Brown
+Primeira linha: Quinta, 10h15. A Camila abre a reunião de retenção com 12 ideias na tela e nenhuma testada.
