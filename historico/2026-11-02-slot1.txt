@@ -1,0 +1,4 @@
+Pauta: Cenario da Helena (gestora de empresa de software de agenda para saloes): 20 contas novas e 14 cancelamentos no mes, e a retencao como meta de vendas, produto e CS
+Modo: B
+Livro: The Customer Success Economy, Nick Mehta e Dan Steinman
+Primeira linha: Segunda, 9h12. Helena abre o painel: 20 contas novas fechadas no mes e 14 cancelamentos no mesmo periodo.
