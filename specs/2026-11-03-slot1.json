@@ -1,0 +1,74 @@
+{
+ "set": "2026-11-03-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Baixou o preço e o cliente *gastou os mesmos R$ 12*",
+   "body": "A saída foi uma oferta nova para quem já compra dele, e você pode copiar na sua loja.",
+   "photo": "30.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.17,
+   "photo_src": 30
+  },
+  {
+   "type": "content",
+   "title": "Segunda, 7h40, na padaria do Rogério",
+   "body": "Rogério somou o mês e viu 30 clientes que passam por ali todo dia. Gente fiel, de rotina. Mas cada um gasta só **R$ 12** por visita: um pão, um café e pronto. Ele queria vender mais."
+  },
+  {
+   "type": "content",
+   "title": "Primeiro, ele fez o que todo dono faz",
+   "body": "Baixou o preço do pão para competir com a padaria da esquina. A margem encolheu. O cliente continuou gastando os mesmos R$ 12. Ele ficou com **menos lucro** e a mesma venda."
+  },
+  {
+   "type": "content",
+   "title": "Brigar por preço é jogar o jogo do outro",
+   "body": "A crença comum: para vender mais, é preciso ser mais barato. Mas o cliente que já gosta de você não pede desconto. Ele pede um **motivo a mais** para voltar e gastar com você."
+  },
+  {
+   "type": "chart",
+   "title": "Os 4 verbos para criar uma oferta nova",
+   "body": "Cada verbo vira uma pergunta sobre a sua loja, em ordem de esforço",
+   "chart": {
+    "type": "hbar",
+    "labels": [
+     "1 Eliminar",
+     "2 Reduzir",
+     "3 Aumentar",
+     "4 Criar"
+    ],
+    "values": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "unit": "",
+    "hi": 3,
+    "note": "CONCEITO: Blue Ocean Strategy"
+   },
+   "insight": "Quanto mais você cria, menos precisa brigar por preço"
+  },
+  {
+   "type": "content",
+   "title": "Um livro chama isso de mudar o jogo",
+   "body": "O livro Blue Ocean Strategy, de W. Chan Kim e Renée Mauborgne, diz: em vez de copiar o concorrente, **redesenhe a oferta**. Elimine o que não vale, reduza o que pesa, aumente o que o cliente ama e crie algo novo."
+  },
+  {
+   "type": "content",
+   "title": "O que o Rogério criou: o clube do café",
+   "body": "Ele eliminou o desconto no pão avulso e criou um clube: pague a semana adiantada e retire o café da manhã sem fila. Ofereceu **só para os 30 fiéis**. Nove toparam no primeiro mês."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Anote o que seus clientes fiéis mais compram e o que ignoram.\n\n2. Responda: o que eu elimino, reduzo, aumento e crio?\n\n3. Ofereça a ideia a 10 clientes antes de abrir para todos."
+  },
+  {
+   "type": "cta",
+   "title": "Conhece alguém que só briga por preço?",
+   "body": "Essa pessoa pode estar a uma oferta nova de vender mais para quem já confia nela.",
+   "cta": "MANDE PARA QUEM TEM UM COMÉRCIO DE BAIRRO"
+  }
+ ]
+}
