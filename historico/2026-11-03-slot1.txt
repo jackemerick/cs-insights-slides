@@ -1,0 +1,4 @@
+Pauta: Cenario do Rogerio (dono de padaria): 30 clientes fieis gastando R$ 12, desconto no pao sem efeito e a grade eliminar, reduzir, aumentar e criar para criar oferta nova para a base atual
+Modo: B
+Livro: Blue Ocean Strategy, W. Chan Kim e Renee Mauborgne
+Primeira linha: Segunda, 7h40. Rogerio, dono de uma padaria, ve 30 clientes que passam todo dia e gastam so R$ 12 cada.
