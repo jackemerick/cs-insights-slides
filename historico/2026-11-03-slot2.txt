@@ -1,0 +1,4 @@
+Pauta: Cenario da Bianca (gestora de CS de software de gestao para lojas): 12 de 40 clientes novos cancelaram antes de 100 dias; metrica churn de 100 dias por safra
+Modo: B
+Livro: Never Lose a Customer Again, Joey Coleman
+Primeira linha: Quarta, 16h20. A Bianca soma o trimestre e ve que 12 de 40 clientes novos cancelaram antes de completar 100 dias.
