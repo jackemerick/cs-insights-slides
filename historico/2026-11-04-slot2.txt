@@ -1,0 +1,4 @@
+Pauta: Cenario da Helena (gestora de CS de software de agendamento): 14 metricas no painel e 9 de 60 contas novas travadas; uma metrica unica por estagio (ativacao em 14 dias)
+Modo: B
+Livro: Lean Analytics, Alistair Croll e Benjamin Yoskovitz
+Primeira linha: Sexta, 17h40. A Helena abre o painel de CS e ve 14 metricas, mas nenhuma explica por que 9 de 60 contas novas travaram.
