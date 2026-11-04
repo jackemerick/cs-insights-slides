@@ -1,0 +1,4 @@
+Pauta: Cenario da Priscila (dona de cafeteria): 100 clientes no cartao fidelidade e so 10 voltando, desconto sem efeito e o modelo do gancho (gatilho, acao, recompensa variavel, investimento)
+Modo: B
+Livro: Hooked, Nir Eyal
+Primeira linha: Quinta, 8h20. Priscila, dona de uma cafeteria, ve 100 clientes no cartao fidelidade e so 10 voltando no mes.
