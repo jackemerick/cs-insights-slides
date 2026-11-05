@@ -1,0 +1,4 @@
+Pauta: Cenario do Rogerio (gestor de CS de software de gestao): NPS 62 e 7 cancelamentos no mes; metrica Customer Effort Score (CES) por motivo de demanda
+Modo: B
+Livro: The Effortless Experience, Matthew Dixon, Nick Toman e Rick DeLisi
+Primeira linha: Quinta, 16h40. O Rogerio abre o painel de CS: NPS em 62, o melhor do ano. E 7 cancelamentos no mes.
