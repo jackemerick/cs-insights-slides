@@ -1,0 +1,4 @@
+Pauta: Cenario da Fernanda (gestora de CS de software de gestao financeira): churn de clientes 4% mas 11% da receita recorrente perdida; metrica churn de receita (retencao bruta) vs churn de clientes, por faixa de contrato
+Modo: B
+Livro: Customer Success, Nick Mehta, Dan Steinman e Lincoln Murphy
+Primeira linha: Quinta, 15h50. A Fernanda fecha o trimestre: perdeu 4 clientes em 100, mas 11% da receita recorrente.
