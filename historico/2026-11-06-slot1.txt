@@ -1,0 +1,4 @@
+Pauta: Cenario da Daniela (gestora de CS de software de emissao de notas fiscais): 50 contas de teste e so 8 emitem a primeira nota; tempo ate o valor e onboarding com etapas necessarias, adiaveis e removiveis
+Modo: B
+Livro: Product-Led Growth, Wes Bush
+Primeira linha: Terca, 9h05. A Daniela abre o painel: 50 contas de teste criadas na semana e so 8 emitiram a primeira nota.
