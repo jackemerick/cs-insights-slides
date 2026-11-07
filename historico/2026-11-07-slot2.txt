@@ -1,0 +1,4 @@
+Pauta: Cenario da Priscila (gestora de CS de software de logistica): 20 renovacoes, 2 expansoes, NRR 100%; metrica taxa de expansao por tipo de conversa (check-in vs insight)
+Modo: B
+Livro: The Challenger Sale, Matthew Dixon e Brent Adamson
+Primeira linha: Quinta, 16h30. A Priscila olha as 20 renovacoes do trimestre: 20 clientes ficaram, so 2 compraram algo a mais.
