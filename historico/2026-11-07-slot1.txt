@@ -1,0 +1,4 @@
+Pauta: Cenario da Marina (gestora de CS): conta grande com 4 pessoas ativas e 1 so champion na renovacao; mapear quem decide e preparar o contato para convencer os outros (mobilizador)
+Modo: B
+Livro: The Challenger Customer, Brent Adamson, Matthew Dixon, Pat Spenner e Nick Toman
+Primeira linha: Sabado, 7h40. Marina abre o painel de CS e ve o contrato de uma conta grande em risco: 4 pessoas ativas, 1 so champion.
