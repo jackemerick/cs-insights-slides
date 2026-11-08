@@ -1,0 +1,4 @@
+Pauta: Cenario da Helena (gestora de CS de software de gestao): 80 contas verdes no health score e 3 cancelamentos em uma semana; metrica health score validado contra churn e tendencia
+Modo: B
+Livro: Metricas e saude de conta, conteudos da Gainsight
+Primeira linha: Segunda, 8h40. A Helena abre o painel de CS: 80 contas verdes no health score. Ate sexta, 3 pedem cancelamento.
