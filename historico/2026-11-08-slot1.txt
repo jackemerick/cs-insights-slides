@@ -1,0 +1,4 @@
+Pauta: Cenario da Carolina (gestora de CS de software para academias): 15 ideias para reduzir cancelamento e so 1 saiu do papel; ciclo curto de testes, nota de 1 a 10 (ICE) e 1 teste por semana
+Modo: B
+Livro: Hacking Growth, Sean Ellis e Morgan Brown
+Primeira linha: Segunda, 8h30. Carolina, gestora de CS, abre a lista: 15 ideias para reduzir cancelamento. So 1 saiu do papel.
