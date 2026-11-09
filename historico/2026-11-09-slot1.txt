@@ -1,0 +1,4 @@
+Pauta: Cenario da Paula (gestora de CS): 6 ideias de indicacao e verba para testar so uma; metodo Bullseye (alvo) de Traction: listar, testar 3, concentrar no vencedor
+Modo: B
+Livro: Traction, Gabriel Weinberg e Justin Mares
+Primeira linha: Segunda, 9h10. Paula, gestora de CS, sai da reuniao com 6 ideias de indicacao e verba para testar so uma.
