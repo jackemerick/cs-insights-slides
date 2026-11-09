@@ -1,0 +1,4 @@
+Pauta: Cenario da Tatiana (gestora de CS): 40 contas com sinal de expansao e so 3 fecharam; metrica conversao por etapa do funil de expansao (sinal, conversa, proposta, fechamento)
+Modo: B
+Livro: Predictable Revenue, Aaron Ross e Marylou Tyler
+Primeira linha: Segunda, 12h40. A Tatiana, gestora de CS, soma o mes: 40 contas com sinal de expansao e so 3 fecharam.
