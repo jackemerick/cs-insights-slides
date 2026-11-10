@@ -1,0 +1,4 @@
+Pauta: Cenario da Camila (gestora de CS de software de agendamento): 50 contas novas e so 18 ativaram; taxa de ativacao em 30 dias (NOTA: NAO PUBLICADO, Linkedin pediu login de novo; texto salvo no Drive)
+Modo: B
+Livro: Never Lose a Customer Again, Joey Coleman
+Primeira linha: Terca, 14h10. A Camila, gestora de CS, abre o painel: 50 contas novas no trimestre e so 18 usaram o recurso principal.
