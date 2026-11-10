@@ -1,0 +1,4 @@
+Pauta: Cenario do Diego (socio de empresa de software): 40 leads e 31 sem resposta, time de 3 pessoas fazendo tudo; especializacao de papeis (qualificar, fechar, cuidar) e checklist de passagem para o CS
+Modo: B
+Livro: Predictable Revenue, Aaron Ross e Marylou Tyler
+Primeira linha: Quinta, 8h15. Diego abre o CRM e ve 40 leads novos na semana. 31 ainda sem resposta.
