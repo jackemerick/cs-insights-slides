@@ -1,0 +1,57 @@
+{
+ "set": "2026-11-11-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Quarta, 8h05: Renata vê 30 recursos no plano e *só 6 usados*",
+   "body": "Veja o roteiro de 4 ações que transforma o que você vende em algo que o cliente valoriza.",
+   "photo": "24.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 24
+  },
+  {
+   "type": "content",
+   "title": "Quarta, 8h05, na mesa da Renata",
+   "body": "Renata cuida do pós-venda (o cuidado com o cliente depois da compra) de uma empresa que vende sistema de gestão. Ela abre o painel e vê: **120 clientes, 30 funções no pacote**. Só 6 funções são usadas pela maioria."
+  },
+  {
+   "type": "content",
+   "title": "Nove clientes saíram e ninguém reclamou",
+   "body": "Quando ela liga para perguntar o motivo, ouve quase sempre a mesma frase: **pago por muita coisa que não uso**. Ninguém reclama do atendimento. O cliente só não enxerga por que o pacote vale o preço."
+  },
+  {
+   "type": "content",
+   "title": "Mais coisas no pacote não seguram cliente",
+   "body": "A crença comum é: quanto mais itens, mais motivos para ficar. Renata pensou em dar desconto e fazer um treinamento geral. Só que isso **aumenta o barulho, não o valor**. É o mesmo que encher o cardápio da padaria de 30 pães."
+  },
+  {
+   "type": "stat",
+   "title": "O livro propõe 4 ações simples",
+   "stat": "4",
+   "body": "Blue Ocean Strategy, de W. Chan Kim e Renée Mauborgne, sugere: eliminar, reduzir, aumentar e criar. Em vez de oferecer mais, você escolhe o que realmente importa.",
+   "note": "CONCEITO: Blue Ocean Strategy"
+  },
+  {
+   "type": "content",
+   "title": "O que isso custa a uma loja pequena",
+   "body": "Imagine uma assessoria contábil que vende 12 serviços no mesmo pacote. O cliente usa 3 e paga pelos 12. Na hora de apertar o orçamento, **ele corta o que não entende**. E a conta que sobra é a sua."
+  },
+  {
+   "type": "content",
+   "title": "Renata refez a oferta com as 4 ações",
+   "body": "Eliminou do discurso o que ninguém usava. Reduziu etapas do começo. Aumentou o acompanhamento. Criou um **check-up trimestral**: uma reunião curta mostrando o que o cliente ganhou. Na renovação, a conversa saiu do preço e foi para o resultado."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Liste tudo o que você vende e marque o que o cliente usa de verdade.\n\n2. Tire do discurso o que quase ninguém usa e **simplifique a entrada**.\n\n3. Crie um check-up curto a cada 3 meses para mostrar o ganho do cliente."
+  },
+  {
+   "type": "cta",
+   "title": "Conhece um dono de negócio com pacote cheio?",
+   "body": "Mande este carrossel para ele e comecem pela lista do que o cliente realmente usa.",
+   "cta": "MANDE PARA UM DONO DE NEGÓCIO"
+  }
+ ]
+}
