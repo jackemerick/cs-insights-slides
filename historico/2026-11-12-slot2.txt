@@ -1,0 +1,4 @@
+Pauta: Cenario da Helena (gestora de CS de plataforma de cobranca recorrente): painel com 14 metricas e nenhuma diz se o cliente novo ficou; metrica unica = contas ativas na semana 4 por coorte (NOTA: LinkedIn NAO PUBLICADO, login expirado; texto salvo no Drive)
+Modo: B
+Livro: Lean Analytics, Alistair Croll e Benjamin Yoskovitz
+Primeira linha: Quinta, 9h15. A Helena abre um painel com 14 metricas e percebe que nenhuma diz se o cliente novo ficou.
