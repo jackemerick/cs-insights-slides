@@ -1,0 +1,4 @@
+Pauta: Cenario da Paula (gestora de CS de software para escritorios de contabilidade): 40 cancelamentos e 30 eram verdes 60 dias antes; metrica = taxa de acerto do health score (backtest contra churn real) (NOTA: Modo A sem fato das ultimas 24h; LinkedIn NAO PUBLICADO, login expirado; texto salvo no Drive, pasta CS Insights)
+Modo: B
+Livro: Health score, conteudos da Gainsight (nenhum livro)
+Primeira linha: Segunda, 16h40. A Paula abre o painel: 40 contas cancelaram no semestre e 30 delas estavam no VERDE dois meses antes.
