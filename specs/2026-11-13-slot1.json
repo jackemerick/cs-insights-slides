@@ -1,0 +1,70 @@
+{
+ "set": "2026-11-13-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Terça, 8h10: Fernanda vê *8 de 20* clientes novos sumirem",
+   "body": "Veja o que acontece com o cliente nos primeiros dias depois da compra.",
+   "photo": "27.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.16,
+   "photo_src": 27
+  },
+  {
+   "type": "content",
+   "title": "Terça, 8h10, na mesa da Fernanda",
+   "body": "Fernanda cuida do pós-venda (o cuidado com o cliente depois da compra) de uma empresa que vende sistema de agenda para salões. Ela abre a lista e vê: **20 clientes novos no trimestre, 8 pararam de usar**. Ninguém reclamou."
+  },
+  {
+   "type": "content",
+   "title": "Ninguém brigou, todos sumiram",
+   "body": "Quando liga para entender, ouve respostas parecidas: não sabiam por onde começar e ninguém perguntou. O cliente não cancelou com raiva. **Ele só foi se afastando** até esquecer que tinha o sistema."
+  },
+  {
+   "type": "content",
+   "title": "O primeiro contato vinha tarde",
+   "body": "Fernanda confere as datas. O primeiro contato depois da venda acontecia por volta do **dia 45**. Antes disso, o cliente ficou sozinho com um sistema novo, uma equipe para ensinar e dúvidas sem resposta."
+  },
+  {
+   "type": "chart",
+   "title": "Quando o cliente volta a ouvir você",
+   "body": "Dias entre a compra e o primeiro contato, no exemplo da Fernanda.",
+   "chart": {
+    "type": "hbar",
+    "labels": [
+     "Antes",
+     "Depois"
+    ],
+    "values": [
+     45,
+     3
+    ],
+    "unit": " dias",
+    "hi": 1,
+    "note": "CONCEITO: Never Lose a Customer Again"
+   },
+   "insight": "Quanto antes o cuidado começa, menos o cliente se afasta"
+  },
+  {
+   "type": "content",
+   "title": "A venda é a largada, não a chegada",
+   "body": "O erro não foi do produto. Foi tratar a venda como o fim da história. O livro Never Lose a Customer Again, de Joey Coleman, trata os **primeiros 100 dias depois da compra** como o período que mais pesa na lealdade do cliente."
+  },
+  {
+   "type": "content",
+   "title": "Fernanda mudou a rotina",
+   "body": "Passou a falar com o cliente novo em até 3 dias. Combinou com ele uma **primeira vitória pequena** para a primeira semana. E marcou conversas curtas nos dias 30 e 90."
+  },
+  {
+   "type": "content",
+   "title": "3 passos para fazer esta semana",
+   "body": "1. Anote quando foi a última venda e quando o cliente ouviu você de novo depois dela.\n\n2. Combine com cada cliente novo uma **primeira vitória pequena** para a primeira semana.\n\n3. Marque no calendário um retorno curto nos dias 30 e 90."
+  },
+  {
+   "type": "cta",
+   "title": "Conhece quem atende clientes novos?",
+   "body": "Mande este carrossel para essa pessoa e comecem pelo primeiro contato",
+   "cta": "MANDE PARA QUEM CUIDA DOS SEUS CLIENTES"
+  }
+ ]
+}
