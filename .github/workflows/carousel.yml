@@ -1,0 +1,29 @@
+name: Gerar carrossel
+on:
+  push:
+    paths: ["carousel_specs/**", "carousel/**", ".github/workflows/carousel.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install playwright && playwright install --with-deps chromium
+      - name: Gerar slides das specs novas
+        run: |
+          for f in carousel_specs/*.json; do
+            id=$(basename "$f" .json)
+            if [ ! -f "out/carousel/$id/slide_09.jpg" ]; then
+              python carousel/render.py "$f"
+            fi
+          done
+      - name: Publicar slides
+        run: |
+          git config user.name "slides-bot"
+          git config user.email "slides-bot@users.noreply.github.com"
+          git add out/carousel
+          git diff --cached --quiet || (git commit -m "Carrossel gerado" && git pull --rebase -q && git push)
