@@ -1,0 +1,72 @@
+{
+ "set": "2026-11-14-slot1",
+ "brand": "Jack Emerick Insights",
+ "slides": [
+  {
+   "title": "Só *60 de 200* clientes usam toda semana. A virada da Bruna",
+   "body": "Quatro passos simples para o cliente voltar sozinho, sem dar desconto.",
+   "photo": "21.jpg",
+   "photo_fx": 0.5,
+   "photo_fy": 0.21,
+   "photo_src": 21
+  },
+  {
+   "type": "content",
+   "title": "Sábado cedo, o painel assusta",
+   "body": "Bruna cuida dos clientes de um sistema de agenda para pequenos negócios. Ela abre o painel e vê o número: 200 clientes pagando. Só 60 entram no sistema toda semana. Os outros 140 abrem uma vez por mês, quando lembram."
+  },
+  {
+   "type": "content",
+   "title": "Pagar em dia não quer dizer ficar",
+   "body": "Os 140 clientes ainda pagam a mensalidade. Por isso ninguém reclama. Mas quem usa pouco está com um pé na porta. Basta um aperto no caixa para cortar a primeira despesa: justamente o sistema que quase não usa."
+  },
+  {
+   "type": "content",
+   "title": "Cliente bom volta sozinho. Será?",
+   "body": "A primeira ideia da Bruna foi mandar promoção e desconto para todo mundo. Funcionou por dois dias. Depois, tudo voltou ao normal. Desconto traz o cliente uma vez, mas não cria o costume de voltar."
+  },
+  {
+   "type": "chart",
+   "title": "Três de dez voltam toda semana",
+   "body": "Os outros sete só aparecem de vez em quando e estão perto de cancelar.",
+   "chart": {
+    "type": "donut",
+    "labels": [
+     "Usam toda semana",
+     "Aparecem só às vezes"
+    ],
+    "values": [
+     60,
+     140
+    ],
+    "unit": "",
+    "big": "3",
+    "big_sub": " de 10",
+    "small": "VOLTAM",
+    "note": "EXEMPLO ILUSTRATIVO"
+   },
+   "insight": "Quem não cria o costume de usar, cancela mais cedo."
+  },
+  {
+   "type": "content",
+   "title": "O livro Hooked ensina o ciclo do hábito",
+   "body": "Nir Eyal, autor de Hooked, descreve quatro passos: um aviso na hora certa, uma ação fácil, uma recompensa que o cliente sente e algo que ele coloca no sistema. A cada volta, o costume fica mais forte."
+  },
+  {
+   "type": "content",
+   "title": "Na padaria, o mesmo ciclo funciona",
+   "body": "Pense em uma padaria. O aviso é uma mensagem às 16h: o pão saiu agora. A ação fácil é responder com um OK. A recompensa é o pão quente separado. O cliente investe quando guarda o pedido favorito."
+  },
+  {
+   "type": "content",
+   "title": "Faça isto nesta semana",
+   "body": "1. Escolha um momento certo para avisar o cliente.\n\n2. Deixe a compra ou o retorno em um passo só.\n\n3. Entregue algo bom logo em seguida e peça para ele salvar o pedido favorito ou o histórico."
+  },
+  {
+   "type": "cta",
+   "title": "Quer mais ideias para o cliente voltar?",
+   "body": "Toda semana, uma ideia simples de pós-venda para pequenos negócios.",
+   "cta": "SIGA ESTE PERFIL"
+  }
+ ]
+}
